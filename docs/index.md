@@ -12,7 +12,3 @@ Run and edit payloads over Wi-Fi from mobile and desktop devices, or use the qui
 The USB Nugget mounts as a USB flash drive when plugged into your computer, making it easy to drag and drop multiple payloads to the onboard storage.
 
 ![Features of the USB Nugget](assets/USBNuggetFeatures.jpg)
-
-## Quick Start
-Want to see the **USB Nugget** in action? Watch Alex use the PwnKit payload on the USB Nugget:
-
