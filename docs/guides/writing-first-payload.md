@@ -26,6 +26,7 @@ Now that we have the basics down, let’s take a look at supported commands:
 
 | Command       | Usage               | Description                                                  |
 |---------------|---------------------|--------------------------------------------------------------|
+| `LOCALE`      | `EN`, `DE`, etc     | Changes the keyboard layout to the specified language        |
 | `//`          | `// [ANY]`          | Comments are ignored by the interpreter                      |
 | `DEFAULTWAIT` | `DEFAULTWAIT [INT]` | Sets the default time in ms between each command             |
 | `WAIT`        | `WAIT [INT]`        | Sets a one-time delay in ms                                  |
