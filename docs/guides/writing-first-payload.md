@@ -25,7 +25,7 @@ To write out a piece of text, type `TYPE` in all caps. See the example below for
 Now that we have the basics down, let’s take a look at supported commands:
 
 | Command       | Usage               | Description                                                  |
-|---------------|---------------------|--------------------------------------------------------------|'
+|---------------|---------------------|--------------------------------------------------------------|
 | `LOCALE`      | `EN`, `DE`, etc     | Changes the keyboard layout to the specified language        |
 | `//`          | `// [ANY]`          | Comments are ignored by the interpreter                      |
 | `DEFAULTWAIT` | `DEFAULTWAIT [INT]` | Sets the default time in ms between each command             |
